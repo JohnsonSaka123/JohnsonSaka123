@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Saka Johnson . A computer science student at University of Ghana.I'm currently learning web development at frontend masters
+My name is Saka Johnson . A computer science student at University of Ghana.I'm currently learning web development at frontend masters.
 
 
 ## 🌐 Socials:
